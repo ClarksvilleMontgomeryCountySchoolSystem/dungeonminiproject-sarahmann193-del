@@ -1,6 +1,7 @@
 escaped = True
 if escaped:
-    outcome = "Yay! You escaped the dungeon and lived a long happy life."
+    outcome = "Legend: Yay! You escaped the dungeon and lived a long happy life."
 else:
-    outcome = "You wake up from your dream...still in the dungeon."
+    outcome = "Doom: You wake up from your dream...still in the dungeon."
 print(outcome)
+
